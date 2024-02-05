@@ -5,4 +5,5 @@
 <hr />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-![](https://komarev.com/ghpvc/?username=sj-develop&color=red)
+
+![](https://komarev.com/ghpvc/?username=sj-develop&style=flat-square)
